@@ -2,7 +2,7 @@
 - 👀 I’m interested in software testing and Jira administration
 - 🌱 I’m currently learning Java data structures and algorithms
 - 💞️ I’m looking to collaborate on coding 
-- 📫 How to reach me by email haitham.refaat80@gmail.com
+- 📫 How to reach me by email haithamrmahmoud@gmail.com
 
 - Don’t ever let someone tell you that you can’t do something. Not even me. You got a dream, you gotta protect it. When people can’t do something themselves, they are gonna tell you that you can’t do it. You want something go get it. Period.
 Will Smith
