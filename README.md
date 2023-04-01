@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haitham-Mahmoud
+- 👋 Hi, I am Haitham Mahmoud
 - 👀 I’m interested in software testing and Jira administration
 - 🌱 I’m currently learning Java data structures and algorithms
 - 💞️ I’m looking to collaborate on coding 
